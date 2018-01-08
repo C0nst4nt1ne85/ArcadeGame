@@ -1,0 +1,9 @@
+canvas {
+    
+    border: solid 10px black;
+}
+
+header {
+    max-width: 800px;
+    text-align: center;
+}
