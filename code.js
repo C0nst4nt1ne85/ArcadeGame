@@ -43,7 +43,7 @@ window.onload = function(){
     setInterval(function(){
         moveEverything();
         drawEverything();
-    }, 1000/framesPerSecond);
+    }, 1000/50);
 
     canvas.addEventListener("mousedown", handleMouseClick);
 
